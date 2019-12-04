@@ -1,0 +1,7 @@
+200000000 Lányok_napja “Wait,_that_worked?” A_VIK-re_kétszer_annyi_lány_fog_járni.
+1000000000 VEK “Villamosmérnöki_és_Emancipációs_Kar” A_VIK-re_kétszer_annyi_lány_fog_járni.
+10000000000 Pazarlás “A_te_tankörödben_kettõ_lány_is_van.” A_VIK-re_kétszer_annyi_lány_fog_járni.
+1000000000000 50-50 “Fordul_a_kocka” A_VIK-re_kétszer_annyi_lány_fog_járni.
+100000000000000 Reciprokpazarlás “Két_fiú_egymás_mellett?” A_VIK-re_kétszer_annyi_lány_fog_járni.
+10000000000000000 Adj_pajtás “A_Szakestélyen_minden_hím_Erikának_szólíttatik.” A_VIK-re_kétszer_annyi_lány_fog_járni.
+0 Feminizmus “A_férfinak_a_konyhában_a_helye.” [A_VIK-re_csak_lány_jár.]

@@ -1,0 +1,6 @@
+750000000000 Duplázás “Czirkos_Zoltán_tartja_a_Prog_2-t_is.” Czirkos_fele_annyit_pislog.
+3750000000000 Infinite_time “A_szorgalmik_javítása_helyett_is_krediteket_teremt.” Czirkos_fele_annyit_pislog.
+37500000000000 Kakukk “Olvassa_egyáltalán_ezeket_bárki?” Czirkos_fele_annyit_pislog.
+3750000000000000 Visine_Classic “We_all_know_why_your_eyes_are_red” Czirkos_fele_annyit_pislog.
+375000000000000000 Szallag “Na_ez_már_szemtelenség.” Czirkos_fele_annyit_pislog.
+0 Czirukon_szeme “Egy_Czirkos_mind_fölött,_Egy_Czirkos_kegyetlen...” [Czirkos_nem_pislog.]
