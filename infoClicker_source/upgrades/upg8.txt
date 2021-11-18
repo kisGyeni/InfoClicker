@@ -1,0 +1,7 @@
+51000000000 #nofilter “Csinálsz_egy_fotót_a_díjakról.” A_Nobel-díjaid_inflálódnak.
+255000000000 Ctrl+c_Ctrl+v “Lefénymásolod_a_díjaid.”  A_Nobel-díjaid_inflálódnak.
+2550000000000 Senki_többet_harmadszor. “Meghirdeted_a_díjakat_ebayen.”  A_Nobel-díjaid_inflálódnak.
+255000000000000 A_többi_már_történelem... “Múzeumot_nyitsz_a_díjaidnak.”  A_Nobel-díjaid_inflálódnak.
+25500000000000000 Stonks “Beolvasztva_kreditekre_cseréled_a_feketepiacon.”  A_Nobel-díjaid_inflálódnak.
+2550000000000000000 Fej_vagy_írás? “Tartsd_meg_a_mocskot_te_apró_állat.”  A_Nobel-díjaid_inflálódnak.
+0 Matematikai_Nobel-díj “Neked_ilyened_is_van.”  [A_Nobel-díjaid_értékesebbek_egy_BME_diplománál.]

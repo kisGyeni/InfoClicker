@@ -1,0 +1,6 @@
+750000000000 C++ “Az_a_két_plusz_csak_jelent_valamit.” A_C_kétszer_olyan_hasznos_lesz.
+3750000000000 C# “I_need_glasses._I_don't_C#.” A_C_kétszer_olyan_hasznos_lesz.
+37500000000000 Kakukk “Olvassa_egyáltalán_ezeket_bárki?” A_C_kétszer_olyan_hasznos_lesz.
+3750000000000000 A+ “3_jegyet_javítottál.” A_C_kétszer_olyan_hasznos_lesz.
+375000000000000000 Java “A_C-be_tartozik_a_programnyelvek_JAVA” A_C_kétszer_olyan_hasznos_lesz.
+0 Loop “Írtál_egy_C_compilert_C-ben” [C_Isten]
